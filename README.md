@@ -4,8 +4,6 @@ An OpenAI-powered document intelligence SaaS starter that lets users upload priv
 
 This repository is built as a complete local product workspace: a Next.js dashboard for users and a FastAPI backend for ingestion, retrieval, and answer generation.
 
-![RAG SaaS overview](frontend/public/globe.svg)
-
 ## What This App Does
 
 RAG SaaS turns company files into a searchable AI knowledge base.
